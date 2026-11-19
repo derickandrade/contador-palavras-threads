@@ -132,7 +132,7 @@ A saída contém, em ordem: os anúncios de cada ocorrência (palavra, arquivo, 
 
 ### 4.1 Ambiente e dados
 
-Os testes foram realizados em um Intel Core i5-9400F de 2,90 GHz (6 núcleos lógicos), sob Linux Mint 22.3, com GCC 13.3.0 e as opções `-O2 -pthread`. O conjunto de dados contém 28 livros de domínio público em inglês, em texto simples, com aproximadamente 28 MB, obtidos do acervo da Public Domain Library [2] (ver [Materiais complementares](#6-materiais-complementares)).
+Os testes foram realizados em um Intel Core i5-9400F de 2,90 GHz (6 núcleos lógicos), sob Linux Mint 22.3, com GCC 13.3.0 e as opções `-O2 -pthread`. O conjunto de dados contém 28 livros de domínio público em inglês, em texto simples, com aproximadamente 28 MB, obtidos do acervo da Public Domain Library [2].
 
 ### 4.2 Corretude
 
